@@ -15,7 +15,11 @@ Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
 # DEEP LEARNING TOPICS
 ```
 Basic Neural Network Topics
-
+Backpropagation
+Transfer Learning
+Hyperparameter tuning
+Data Augmentation
+```
 # Python 
 ```
 Python and its libraries
